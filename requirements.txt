@@ -4,3 +4,7 @@ Emoji
 type option
 colors
 vibrate
+
+
+Dark mode
+Video calls
