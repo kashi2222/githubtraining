@@ -8,3 +8,8 @@ vibrate
 
 Dark mode
 Video calls
+
+
+Payment methods
+send money
+Recieve money
